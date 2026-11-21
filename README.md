@@ -68,13 +68,12 @@ Output:
 
 *Citation*
 
-If using this workflow in your publication, please cite:
-[suppressed for anonymity will be added upon acceptance]
+If using this workflow in your publication, please cite following paper:
+Ivanović, A., Urošević,A., Vučić, T., Ajduković, M., Arntzen, J. W., &Cvijanović, M. (2026). Evolution of cranialarchitecture and inter-element articulations insalamanders of the family Salamandridae. The Anatomical Record, 1–14. https://doi.org/10.1002/ar.70401
 
 *Contact*
 
-For issues within script:
-[suppressed for anonymity will be added upon acceptance]
-For data requests:
-[suppressed for anonymity will be added upon acceptance]
+Tijana Vučić
+University of Belgrade - Faculty of Biology
+tijana.vucic@bio.bg.ac.rs
 
